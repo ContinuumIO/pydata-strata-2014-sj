@@ -1,5 +1,9 @@
 # Python Data Applications using Blaze and Bokeh
 
+## Requirements
+
+- Install [Anaconda](http://continuum.io/downloads)
+- Download data sets ... to come ...
 
 ## Outline
 
