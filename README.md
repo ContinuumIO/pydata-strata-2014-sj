@@ -26,17 +26,17 @@ Blaze Notebooks
 ---------------
 
 1.  [Introduction](01-introduction.ipynb)
-- ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/01-introduction.ipynb))
-- ([solution](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/slides/01-introduction.ipynb))
+    ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/01-introduction.ipynb))
+    ([solution](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/slides/01-introduction.ipynb))
 2.  [`into`](02-into.ipynb)
-- ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/02-into.ipynb))
-- ([solution](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/slides/02-into.ipynb))
+    ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/02-into.ipynb))
+    ([solution](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/slides/02-into.ipynb))
 3.  [Blaze](03-blaze.ipynb)
-- ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/03-blaze.ipynb))
-- ([solution](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/slides/03-blaze.ipynb))
+    ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/03-blaze.ipynb))
+    ([solution](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/slides/03-blaze.ipynb))
 4.  [Remote Data](04-remote.ipynb)
-- ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/04-remote.ipynb))
-- ([solution](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/slides/04-remote.ipynb))
+    ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/04-remote.ipynb))
+    ([solution](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/slides/04-remote.ipynb))
 
 Bokeh
 -----
