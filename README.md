@@ -7,8 +7,9 @@
 
 Update `blaze` and `into`
 
-    conda install -y blaze
-    conda install -y into
+    conda install --yes blaze
+    conda install --yes into
+    conda install --yes bokeh
 
 
 ## Outline
