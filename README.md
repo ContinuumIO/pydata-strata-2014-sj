@@ -29,3 +29,14 @@ Blaze Notebooks
 2.  [`into`](02-into.ipynb) - ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/02-into.ipynb))
 3.  [Blaze](03-blaze.ipynb) - ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/03-blaze.ipynb))
 1.  [Remote Data](04-remote.ipynb) - ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/04-remote.ipynb))
+
+Bokeh
+-----
+1.  [Introduction](05-bokeh-intro.ipynb) - ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/05-bokeh-intro.ipynb))
+2.  Simple apps
+  - static html pages,
+  - embedded in flask,
+  - interactivity via bokeh-server
+3. Final app
+  - [explore](07-final-app/Explore.ipynb) - ([nbviewer](http://nbviewer.ipython.org/github/ContinuumIO/pydata-strata-2014-sj/blob/master/07-final-app/Explore.ipynb))
+  - linking plots all together
