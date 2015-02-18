@@ -5,6 +5,12 @@
 - Install [Anaconda](http://continuum.io/downloads)
 - Download [Baseball Statistics SQLite database](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2013.sqlite)
 
+Update `blaze` and `into`
+
+    conda install -y blaze
+    conda install -y into
+
+
 ## Outline
 
 1. Introduction (5 min)
