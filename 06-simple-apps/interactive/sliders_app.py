@@ -1,12 +1,15 @@
 """
 This file demonstrates a bokeh applet, which can be viewed directly
-on a bokeh-server. See the README.md file in this directory for
-instructions on running.
+on a bokeh-server. To run this first run
+
+    bokeh-server --script sliders_app.py
+
+Now navigate to the following URL in a browser:
+
+    http://localhost:5006/bokeh/sliders
 """
 
 import logging
-
-logging.basicConfig(level=logging.DEBUG)
 
 import numpy as np
 
