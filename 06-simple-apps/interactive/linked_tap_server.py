@@ -1,5 +1,4 @@
 from __future__ import print_function
-
 import numpy as np
 
 from bokeh.models import ColumnDataSource, DataRange1d, Plot, LinearAxis, Grid, Circle, VBox, HBox, Button, TapTool
@@ -41,7 +40,7 @@ def on_selection_change1(obj, attr, _, inds):
     source2.data["color"] = color
     session.store_objects(source2)
 
-source1.on_change('mouseover', on_selection_change1)
+source1.on_change('selected', on_selection_change1)
 
 def on_selection_change2(obj, attr, _, inds):
     if inds:
